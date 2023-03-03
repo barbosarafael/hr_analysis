@@ -1,7 +1,7 @@
 hr_analysis
 ==============================
 
-A short description of the project.
+A short description of the project
 
 Project Organization
 ------------
